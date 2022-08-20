@@ -1,0 +1,44 @@
+[8/20/2022 2:02:40 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[8/20/2022 2:02:40 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[8/20/2022 2:02:40 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[8/20/2022 2:02:40 PM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[8/20/2022 2:02:40 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[8/20/2022 2:02:40 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[8/20/2022 2:02:40 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[8/20/2022 2:02:40 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[8/20/2022 2:02:40 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[8/20/2022 2:02:40 PM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[8/20/2022 2:02:40 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[8/20/2022 2:02:40 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[8/20/2022 2:02:40 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[8/20/2022 2:02:40 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[8/20/2022 2:02:40 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[8/20/2022 2:02:40 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[8/20/2022 2:02:40 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[8/20/2022 2:02:40 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[8/20/2022 2:02:40 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[8/20/2022 2:02:40 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[8/20/2022 2:02:40 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[8/20/2022 2:02:40 PM] [Info] This server will automatically save every 1800 seconds
+[8/20/2022 2:02:42 PM] [Info] Steam servers ready!
+[8/20/2022 2:02:42 PM] [Info] Workshop install folder: C:\Users\Yan\Desktop\unturned_project\steamCMD\steamapps\common\U3DS/Servers/Israel best server/Workshop/Steam
+[8/20/2022 2:02:42 PM] [Info] 0 workshop item(s) requested
+[8/20/2022 2:02:42 PM] [Info] Level overrides config Zombies.Min_Drops: 5 (Default: 1)
+[8/20/2022 2:02:42 PM] [Info] Level overrides config Zombies.Max_Drops: 10 (Default: 1)
+[8/20/2022 2:02:42 PM] [Info] Level overrides config Vehicles.Armor_Multiplier: 0.1 (Default: 1)
+[8/20/2022 2:02:42 PM] [Info] Level overrides config Gameplay.Allow_Shoulder_Camera: False (Default: True)
+[8/20/2022 2:02:42 PM] [Info] Loading level: 8%
+[8/20/2022 2:02:42 PM] [Info] Loading level: 16%
+[8/20/2022 2:02:42 PM] [Info] Loading level: 25%
+[8/20/2022 2:02:42 PM] [Info] Loading level: 33%
+[8/20/2022 2:02:42 PM] [Info] Loading level: 41%
+[8/20/2022 2:02:42 PM] [Info] Loading level: 50%
+[8/20/2022 2:02:42 PM] [Info] Loading level: 58%
+[8/20/2022 2:02:42 PM] [Info] Loading level: 66%
+[8/20/2022 2:02:42 PM] [Info] Loading level: 75%
+[8/20/2022 2:02:42 PM] [Info] Loading level: 83%
+[8/20/2022 2:02:42 PM] [Info] Loading level: 91%
+[8/20/2022 2:02:42 PM] [Info] Loading level: 100%
+[8/20/2022 2:04:05 PM] [Info] Connecting: PlayerID: 76561198130270477 Name: ChiefVodka Character: ChiefVodka
+[8/20/2022 2:04:44 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[8/20/2022 2:04:59 PM] [Info] Disconnecting: PlayerID: 76561198130270477 Name: ChiefVodka Character: ChiefVodka
